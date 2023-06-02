@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Bedanta! 👋
 
-<!--
-**bedantadey17/bedantadey17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a student who is pursuing medical science as well as is a hobbyist programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bedantadey17.github.io/)
+## 🎈 Other Stuff
+👩‍💻 I'm currently working on my personal website.
+
+🧠 I'm currently learning Python and web-dev.
+
+📫 How to reach me: bedantadey17 [at] proton [dot] me
+
+😄 Pronouns: he/him
+
+⚡️ Fun fact: All the cities and towns in the Unova region are named after clouds.
+
+
+## 🛠 Skills
+Python, HTML, CSS, JS.
