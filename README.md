@@ -6,7 +6,7 @@ I'm a student who is pursuing medical science as well as is a hobbyist programme
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bedantadey17.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bedanta.tech/)
 ## 🎈 Other Stuff
 👩‍💻 I'm currently working on my personal website.
 
