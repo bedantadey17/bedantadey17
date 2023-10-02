@@ -6,7 +6,7 @@ I'm a student who is pursuing medical science as well as is a hobbyist programme
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bedanta.tech/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bedantadey.me/)
 ## 🎈 Other Stuff
 👩‍💻 I'm currently working on my personal website.
 
@@ -20,4 +20,4 @@ I'm a student who is pursuing medical science as well as is a hobbyist programme
 
 
 ## 🛠 Skills
-Python, HTML, CSS, JS.
+Python, HTML, CSS, JS, English, Hindi, Bengali, German
