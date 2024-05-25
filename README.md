@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a student who is pursuing medical science as well as is a hobbyist programmer.
+I'm a student who is willing to pursue engineering as well as is a hobbyist programmer.
 
 
 ## 🔗 Links
@@ -12,7 +12,7 @@ I'm a student who is pursuing medical science as well as is a hobbyist programme
 
 🧠 I'm currently learning Python and web-dev.
 
-📫 How to reach me: bedantadey17 [at] proton [dot] me
+📫 How to reach me: Check out my socials in https://itscosmo.live/
 
 😄 Pronouns: he/him
 
